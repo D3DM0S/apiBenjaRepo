@@ -1,0 +1,60 @@
+{
+    "usuarios": [
+      {
+        "id": "1",
+        "username": "usuario1",
+        "password": "duoc1234",
+        "email": "be.repetto@duocuc.cl",
+        "rut": "21341486-k",
+        "imagen": "assets/informatico_circulo.png",
+        "isactive": true
+      },
+      {
+        "id": "1",
+        "username": "usuario1",
+        "password": "duoc1234",
+        "email": "be.repetto@duocuc.cl",
+        "rut": "21341486-k",
+        "imagen": "undefined",
+        "isactive": true
+      },
+      {
+        "id": "1",
+        "username": "usuario2",
+        "password": "duoc1234",
+        "email": "ag.repetto@duocuc.cl",
+        "rut": "22774722-6",
+        "imagen": "undefined",
+        "isactive": true
+      }
+    ],
+    "eventos": [
+      {
+        "id": "1",
+        "nombre_evento": "Evento Tecnologico",
+        "descripcion": "Un evento bien eventoso, que es efecto un evento",
+        "foto": "https://i.ibb.co/GJcmDM8/pizza-party.png",
+        "fecha": "",
+        "lugar": "Sede",
+        "asistentes": []
+      },
+      {
+        "id": "2",
+        "nombre_evento": "Evento citt",
+        "descripcion": "Un evento bien eventoso, que es efecto un evento",
+        "fecha": "",
+        "foto": "https://i.ibb.co/GJcmDM8/pizza-party.png",
+        "lugar": "Sede",
+        "asistentes": []
+      },
+      {
+        "id": "3",
+        "nombre_evento": "Evento automovil",
+        "descripcion": "Un evento bien eventoso, que es efecto un evento",
+        "foto": "https://i.ibb.co/GJcmDM8/pizza-party.png",
+        "fecha": "",
+        "lugar": "Sede",
+        "asistentes": []
+      }
+    ]
+  }
